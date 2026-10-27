@@ -18,7 +18,7 @@ No external packages are required.
 From the repository root:
 
 ```sh
-cd leetcode/lru
+cd leetcode/hard/problem/lru
 ../../.venv/bin/python lru_cache.py
 ../../.venv/bin/python test_lru_cache.py
 ```

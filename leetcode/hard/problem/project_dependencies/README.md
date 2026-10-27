@@ -27,7 +27,7 @@ One valid result: [e, f, b, a, d, c]
 From the repository root (use `python3` if your terminal calls Python that):
 
 ```sh
-cd leetcode/project_dependencies
+cd leetcode/hard/problem/project_dependencies
 python solution.py
 python test_build_order.py
 ```
